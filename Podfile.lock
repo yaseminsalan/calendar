@@ -1,0 +1,30 @@
+PODS:
+  - FSCalendar (2.8.1)
+  - JKCalendar (1.1.4):
+    - JKInfinitePageView (~> 1.1.0)
+  - JKInfinitePageView (1.1.0)
+  - KDCalendar (1.8.8):
+    - KDCalendar/EventManager (= 1.8.8)
+  - KDCalendar/EventManager (1.8.8)
+
+DEPENDENCIES:
+  - FSCalendar
+  - JKCalendar
+  - KDCalendar (~> 1.8.4)
+
+SPEC REPOS:
+  trunk:
+    - FSCalendar
+    - JKCalendar
+    - JKInfinitePageView
+    - KDCalendar
+
+SPEC CHECKSUMS:
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  JKCalendar: b0b6cc011a33e07011a2d7eb842784092d82cca6
+  JKInfinitePageView: 30c9e47e0e75067f9be046e5874edc7f4e7d4dc0
+  KDCalendar: b98dcf0b59cea0676e8455b9e3bf575c8626471a
+
+PODFILE CHECKSUM: fba8617a3f63e52e7cf7f4d43c5ef29cff0d8642
+
+COCOAPODS: 1.8.4

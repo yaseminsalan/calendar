@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-calendar-calendarUITests/Pods-calendar-calendarUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
+${BUILT_PRODUCTS_DIR}/JKCalendar/JKCalendar.framework
+${BUILT_PRODUCTS_DIR}/JKInfinitePageView/JKInfinitePageView.framework
+${BUILT_PRODUCTS_DIR}/KDCalendar/KDCalendar.framework
